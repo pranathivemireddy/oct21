@@ -1,0 +1,19 @@
+.flex-container{ 
+    display: flex;
+     gap: 2%;
+     height:200px; 
+    } 
+    .flex-child1{ 
+    border: 2px solid;
+     flex:2 1 150px; 
+    /* flex-grow, flex-shrink, and flex-basis */ 
+    } 
+    .flex-child2{
+     border: 2px solid; 
+    flex: 1 0 100px; 
+    } 
+    .flex-child3{
+     border: 2px solid;
+     flex: 3 2 200px;
+     }
+     

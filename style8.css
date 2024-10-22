@@ -1,0 +1,23 @@
+.flex-container{
+    display: flex; 
+   gap:2%; 
+   height:300px; 
+   align-items: center; 
+   border:2px solid red;
+   align-content: space-evenly;
+    }
+    .flex-child1{ 
+   border: 2px solid; 
+   }
+    .flex-child2{ 
+   border: 2px solid;
+    } 
+   .flex-child3{
+    border: 2px solid; 
+   }
+    .flex-child4{ 
+   border: 2px solid;
+    }
+    .flex-child5{
+    border: 2px solid;
+    }   

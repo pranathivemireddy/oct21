@@ -1,0 +1,28 @@
+.flex-container{
+    display:flex;
+    gap:2%;
+    width:100%;
+    border: 2px solid;
+    padding: 10px;
+    }
+    .flex-child1{
+    border:2px solid;
+    width:20%;
+    flex-shrink:2;
+    }
+    .flex-child2{
+    border:2px solid;
+    width:30%;
+    flex-shrink:1;
+    }
+    .flex-child3{
+    border:2px solid;
+    width:50%;
+    flex-shrink:3;
+    }
+    .flex-child4{
+    border:2px solid;
+    width:30%;
+    flex-shrink:4;
+    }
+    

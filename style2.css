@@ -1,0 +1,19 @@
+.flex-container{
+    display:flex;
+    gap:2%;
+    border: 2px solid;
+    padding: 10px;
+    }
+    .flex-child1{
+    flex-basis:100px;
+    border: 1px solid;
+    }
+    .flex-child2{
+    flex-basis:200px;
+    border: 1px solid;
+    }
+    .flex-child3{
+    flex-basis:300px;
+    border: 1px solid;
+    }
+    

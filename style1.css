@@ -1,0 +1,21 @@
+.flex-container{
+    display:flex;
+    gap:2%;
+    border: 2px solid red;
+    }
+    .flex-container>div{
+        background-color: lightblue;
+    }
+    .flex-child1{
+    flex-grow:1;
+    border:2px solid;
+    }
+    .flex-child2{
+    border:2px solid;
+    flex-grow:2
+    }
+    .flex-child3{
+    flex-grow:0;
+    border: 2px solid;
+    }
+    
